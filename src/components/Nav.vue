@@ -14,7 +14,7 @@
         </router-link>
     </nav>
 </template>
-
+<!-- todo iphone 678中，如果点击了记账后，图标和文字会变小-->
 <script lang="ts">
     export default {
         name: 'Nav'

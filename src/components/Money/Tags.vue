@@ -8,41 +8,6 @@
             <li>食</li>
             <li>住</li>
             <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
-
-            <li>衣</li>
-            <li>食</li>
-            <li>住</li>
-            <li>行</li>
         </ul>
     </div>
 </template>
@@ -60,6 +25,7 @@
         flex-grow: 1;
         display: flex;
         flex-direction: column-reverse;
+
         > .current {
             display: flex;
             flex-wrap: wrap;
