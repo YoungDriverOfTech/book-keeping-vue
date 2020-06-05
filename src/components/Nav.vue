@@ -36,10 +36,10 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-        }
-        .icon{
-            width: 32px;
-            height: 32px;
+            .icon{
+                width: 32px;
+                height: 32px;
+            }
         }
         > .item.selected{
             font-weight: bold;
